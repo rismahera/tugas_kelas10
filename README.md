@@ -13,3 +13,7 @@ Latihan membuat kalkulator menggunakan HTML
 ![kalkultor](https://user-images.githubusercontent.com/97660319/163299488-143b7ab9-5bd7-46c9-9686-1161a7cef8a9.png)
 
 ![hasilkalkulator](https://user-images.githubusercontent.com/97660319/163299664-a1e6d0d2-b671-4677-a255-ea8454618386.png)
+
+Latihan membuat tabel dengan menggunakan HTML
+
+![tabel1](https://user-images.githubusercontent.com/97660319/163300020-5ee8ce4a-c3af-43b5-aff2-6cb3a70bf47e.png)
